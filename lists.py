@@ -31,28 +31,3 @@ print(nos)
 
 item=nos.pop(2)
 print(item + 3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
