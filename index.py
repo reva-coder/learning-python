@@ -27,3 +27,4 @@
 blah =input ("hi, what is you name?")
 
 print (type(float(blah)))
+print("reva".split())
