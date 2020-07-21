@@ -17,4 +17,4 @@ print('apple' in foodprices)
 
 print('pineapple' not in foodprices)
 
-foodprices.
+foodprices
